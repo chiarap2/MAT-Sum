@@ -1,9 +1,10 @@
 # MAT-Sum
+
 `MAT-Sum` is a method that allows us to obtain summarized semantic trajectories, starting from both raw and semantically enriched trajectories. It enriches with semantic aspects the underlying geographical context and leverages it to summarize trajectories.
 
-The input could be both a check-in or a gps dataset. The output will be a set of semantically enriched locations traversed by trajectories. 
+The input could be both a check-in or a gps dataset, in `csv` or `parquet` format. The output will be a set of semantically enriched locations traversed by trajectories. 
 
-To run `MAT-Sum`, please execute the following code after installing requirements in `requirements.txt` file:
+To run `MAT-Sum`, please run the following code after installing requirements in `requirements.txt` file and moving in the `mat_sum` folder:
 ```
 python main.py
 ```

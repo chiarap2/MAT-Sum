@@ -1,0 +1,1 @@
+{"tessellation": {"type": "hexagons", "resolution": 7}, "semantic_aspects": {"POIs": "", "landuse": "", "public_transport": "/home/chiarap/foursquare/geolife/labeled_public_transport.parquet"}, "threshold": 0.9}

@@ -1,0 +1,512 @@
+macro_category;poi_category;label
+aeroway;aerodrome;aeroway
+amenity;bar;sustenance
+amenity;biergarten;sustenance
+amenity;cafe;sustenance
+amenity;fast_food;sustenance
+amenity;food_court;sustenance
+amenity;ice_cream;sustenance
+amenity;pub;sustenance
+amenity;restaurant;sustenance
+amenity;college;education
+amenity;kindergarten;education
+amenity;library;education
+amenity;music_school;education
+amenity;university;education
+amenity;parking;transportation
+amenity;taxi;transportation
+amenity;bank;financial
+amenity;clinic;healthcare
+amenity;hospital;healthcare
+amenity;pharmacy;healthcare
+amenity;arts_centre;entertainment, art and culture
+amenity;cinema;entertainment, art and culture
+amenity;community_centre;entertainment, art and culture
+amenity;conference_centre;entertainment, art and culture
+amenity;events_venue;entertainment, art and culture
+amenity;fountain;entertainment, art and culture
+amenity;music_venue;entertainment, art and culture
+amenity;nightclub;entertainment, art and culture
+amenity;social_centre;entertainment, art and culture
+amenity;theatre;entertainment, art and culture
+amenity;courthouse;public service
+amenity;post_office;public service
+amenity;bbq;facilities
+amenity;bench;facilities
+amenity;internet_cafe;facilities
+amenity;marketplace;commercial
+amenity;monastery;religious
+barrier;city_wall;barrier
+boundary;forest;natural
+boundary;national_park;natural
+building;apartments;accomodation
+building;bungalow;accomodation
+building;dormitory;accomodation
+building;farm;accomodation
+building;hotel;accomodation
+building;house;accomodation
+building;houseboat;accomodation
+building;office;commercial
+building;supermarket;commercial
+building;cathedral;religious
+building;chapel;religious
+building;church;religious
+building;monastery;religious
+building;mosque;religious
+building;religious;religious
+building;synagogue;religious
+building;temple;religious
+building;bridge;civic/amenity
+building;government;civic/amenity
+building;hospital;healthcare
+building;toilets;civic/amenity
+building;stadium;civic/amenity
+building;castle;attraction
+building;ruins;attraction
+craft;atelier;clothing, shoes, accessories
+craft;bakery;food and beverages
+highway;motorway;motor roads
+highway;trunk;motor roads
+highway;residential;pedestrian roads
+highway;pedestrian;pedestrian roads
+highway;busway;motor roads
+highway;cycleway;bicycle roads
+highway;bus_stop;public transport
+historic;anchor;historic attraction
+historic;aqueduct;historic attraction
+historic;archaeological_site;historic attraction
+historic;battlefield;historic attraction
+historic;boundary_stone;historic attraction
+historic;castle;historic attraction
+historic;castel_wall;historic attraction
+historic;church;historic attraction
+historic;citywalls;historic attraction
+historic;memorial;historic attraction
+historic;monument;historic attraction
+historic;monastery;historic attraction
+historic;ruins;historic attraction
+historic;rune_stone;historic attraction
+historic;stone;historic attraction
+historic;tomb;historic attraction
+historic;tower;historic attraction
+landuse;commercial;landuse
+landuse;education;landuse
+landuse;industrial;landuse
+landuse;residential;landuse
+landuse;retail;landuse
+landuse;institutional;landuse
+landuse;aquaculture;landuse
+landuse;farmland;landuse
+landuse;forest;natural
+landuse;greenhouse_horticulture;landuse
+landuse;meadow;landuse
+landuse;orchard;landuse
+landuse;vineyard;landuse
+landuse;grass;natural
+landuse;greenfield;landuse
+landuse;port;landuse
+landuse;railway;landuse
+landuse;religious;landuse
+landuse;winter_sports;landuse
+leisure;adult_gaming_centre;leisure
+leisure;amusement_arcade;leisure
+leisure;beach_resort;leisure
+leisure;bandstand;leisure
+leisure;dance;leisure
+leisure;disc_golf_course;leisure
+leisure;dog_park;leisure
+leisure;escape_game;leisure
+leisure;fishing;leisure
+leisure;fitness_centre;leisure
+leisure;fitness_station;leisure
+leisure;garden;leisure
+leisure;hackerspace;leisure
+leisure;ice_rink;leisure
+leisure;marina;leisure
+leisure;miniature_golf;leisure
+leisure;nature_reserve;leisure
+leisure;park;leisure
+leisure;picnic_table;leisure
+leisure;pitch;leisure
+leisure;playground;leisure
+leisure;sport_centre;leisure
+leisure;stadium;leisure
+leisure;summer_camp;leisure
+leisure;swimming_area;leisure
+leisure;swimming_pool;leisure
+leisure;track;leisure
+leisure;water_park;leisure
+man_made;obelisk;attraction
+natural;fell;natural
+natural;grassland;natural
+natural;heath;natural
+natural;moor;natural
+natural;scrub;natural
+natural;wood;natural
+natural;bay;natural
+natural;beach;natural
+natural;cape;natural
+natural;coastline;natural
+natural;crevasse;natural
+natural;geyser;natural
+natural;glacier;natural
+natural;penisula;natural
+natural;reef;natural
+natural;shoal;natural
+natural;spring;natural
+natural;water;natural
+natural;duen;natural
+natural;fumarole;natural
+natural;hill;natural
+natural;peak;natural
+natural;ridge;natural
+natural;rock;natural
+natural;saddle;natural
+natural;sand;natural
+natural;stone;natural
+natural;valley;natural
+natural;volcano;natural
+office;administrative;office
+office;advertising_agency;office
+office;architect;office
+office;association;office
+office;construction_company;office
+office;consulting;office
+office;courier;office
+office;coworking;office
+office;diploamtic;office
+office;educational_institution;office
+office;engineer;office
+office;financial;office
+office;forestry;office
+office;foundation;office
+office;government;office
+office;graphic_design;office
+office;guide;office
+office;insurance;office
+office;it;office
+office;lawyer;office
+office;logistics;office
+office;moving_company;office
+office;newspaper;office
+office;ngo;office
+office;notary;office
+office;politician;office
+office;political_party;office
+office;publisher;office
+office;religious;office
+office;research;office
+office;security;office
+office;teleommunication;office
+office;therapist;office
+office;travel_agent;office
+office;tutoring;office
+office;union;office
+office;visa;office
+place;suburb;landuse
+place;quarter;landuse
+place;neighbourhood;landuse
+place;city_block;landuse
+place;hamlet;landuse
+place;farm;landuse
+place;islet;landuse
+place;sea;landuse
+place;ocean;landuse
+place;island;landuse
+place;archipelago;landuse
+place;square;landuse
+public_transport;stop_position;public transport
+public_transport;paltform;public transport
+public_transport;station;public transport
+public_transport;stop_area;public transport
+railway;subway;public transport
+railway;tram;public transport
+railway;rail;public transport
+railway;station;public transport
+route;bicycle;bicycle roads
+route;bus;public transport
+route;ferry;public transport
+route;foot;pedestrian roads
+route;piste;public transport
+route;railway;public transport
+route;ski;public transport
+route;train;public transport
+route;tram;public transport
+shop;alcohol;food and beverages
+shop;bakery;food and beverages
+shop;beverages;food and beverages
+shop;butcher;food and beverages
+shop;cheese;food and beverages
+shop;chocolate;food and beverages
+shop;coffee;food and beverages
+shop;confectionery;food and beverages
+shop;convenience;food and beverages
+shop;deli;food and beverages
+shop;dairy;food and beverages
+shop;farm;food and beverages
+shop;frozen_food;food and beverages
+shop;greengrocer;food and beverages
+shop;healt_food;food and beverages
+shop;ice_cream;food and beverages
+shop;pasta;food and beverages
+shop;pastry;food and beverages
+shop;seafood;food and beverages
+shop;spices;food and beverages
+shop;tea;food and beverages
+shop;wine;food and beverages
+shop;water;food and beverages
+shop;kiosk;general store, department store, mall
+shop;mall;general store, department store, mall
+shop;supermarket;general store, department store, mall
+shop;wholesale;general store, department store, mall
+shop;baby_goods;clothing, shoes, accessories
+shop;bag;clothing, shoes, accessories
+shop;boutique;clothing, shoes, accessories
+shop;clothes;clothing, shoes, accessories
+shop;fabric;clothing, shoes, accessories
+shop;fashion_accessories;clothing, shoes, accessories
+shop;jewerly;clothing, shoes, accessories
+shop;leather;clothing, shoes, accessories
+shop;sewing;clothing, shoes, accessories
+shop;shoe;clothing, shoes, accessories
+shop;tailor;clothing, shoes, accessories
+shop;watches;clothing, shoes, accessories
+shop;wool;clothing, shoes, accessories
+shop;variety_store;clothing, shoes, accessories
+shop;beauty;health and beauty
+shop;chemist;health and beauty
+shop;cosmetics;health and beauty
+shop;erotic;health and beauty
+shop;hairdresser;health and beauty
+shop;hearing_aids;health and beauty
+shop;herbalist;health and beauty
+shop;massage;health and beauty
+shop;medical_supply;health and beauty
+shop;nutrition_supplements;health and beauty
+shop;optician;health and beauty
+shop;perfumery;health and beauty
+shop;tattoo;health and beauty
+shop;agrarian;do-it-yourself, household, building materials, gardening
+shop;appliance;do-it-yourself, household, building materials, gardening
+shop;electrical;do-it-yourself, household, building materials, gardening
+shop;energy;do-it-yourself, household, building materials, gardening
+shop;florist;do-it-yourself, household, building materials, gardening
+shop;garden_centre;do-it-yourself, household, building materials, gardening
+shop;garden_furniture;do-it-yourself, household, building materials, gardening
+shop;gas;do-it-yourself, household, building materials, gardening
+shop;houseware;do-it-yourself, household, building materials, gardening
+shop;paint;do-it-yourself, household, building materials, gardening
+shop;trade;do-it-yourself, household, building materials, gardening
+shop;interior_decoration;furniture and interior
+shop;computer;electronics
+shop;electronics;electronics
+shop;hifi;electronics
+shop;mobile_phone;electronics
+shop;telecommunication;electronics
+shop;bicycle;outdoors and sport, vehicles
+shop;boat;outdoors and sport, vehicles
+shop;car;outdoors and sport, vehicles
+shop;car_repair;outdoors and sport, vehicles
+shop;car_parts;outdoors and sport, vehicles
+shop;caravan;outdoors and sport, vehicles
+shop;fuel;outdoors and sport, vehicles
+shop;golf;outdoors and sport, vehicles
+shop;hunting;outdoors and sport, vehicles
+shop;motorcycle;outdoors and sport, vehicles
+shop;outodoor;outdoors and sport, vehicles
+shop;scuba_diving;outdoors and sport, vehicles
+shop;ski;outdoors and sport, vehicles
+shop;snowmobile;outdoors and sport, vehicles
+shop;sports;outdoors and sport, vehicles
+shop;art;art, music, hobbies
+shop;camera;art, music, hobbies
+shop;collector;art, music, hobbies
+shop;games;art, music, hobbies
+shop;music;art, music, hobbies
+shop;musical_instrument;art, music, hobbies
+shop;photo;art, music, hobbies
+shop;trophy;art, music, hobbies
+shop;video;art, music, hobbies
+shop;video_games;art, music, hobbies
+shop;anime;stationery, gifts, books, newspapers
+shop;books;stationery, gifts, books, newspapers
+shop;gift;stationery, gifts, books, newspapers
+shop;lottery;stationery, gifts, books, newspapers
+shop;newsagent;stationery, gifts, books, newspapers
+shop;ticket;stationery, gifts, books, newspapers
+shop;bookmaker;generic shop
+shop;cannabis;generic shop
+shop;copyshop;generic shop
+shop;dry_cleaning;generic shop
+shop;e-cigarette;generic shop
+shop;funeral_directors;generic shop
+shop;insurance;generic shop
+shop;laundry;generic shop
+shop;money_kender;generic shop
+shop;outpost;generic shop
+shop;party;generic shop
+shop;pawnbroker;generic shop
+shop;pet;generic shop
+shop;religion;generic shop
+shop;tobacco;generic shop
+shop;travel_agency;generic shop
+shop;weapons;generic shop
+shop;vacant;generic shop
+sport;aerobics;sport
+sport;american_football;sport
+sport;aikido;sport
+sport;archery;sport
+sport;athletics;sport
+sport;australian_football;sport
+sport;badminton;sport
+sport;bandy;sport
+sport;baseball;sport
+sport;basketball;sport
+sport;beachvolley;sport
+sport;biathlon;sport
+sport;billiards;sport
+sport;brnx;sport
+sport;bobsleigh;sport
+sport;boules;sport
+sport;bowls;sport
+sport;boxing;sport
+sport;bullfighting;sport
+sport;canadian_football;sport
+sport;canoe;sport
+sport;chess;sport
+sport;cliff_diving;sport
+sport;climbing;sport
+sport;climbing_adventure;sport
+sport;cricket;sport
+sport;crossfit;sport
+sport;croquet;sport
+sport;curling;sport
+sport;cycle_polo;sport
+sport;cycling;sport
+sport;darts;sport
+sport;dog_agility;sport
+sport;dog_racing;sport
+sport;dragon_boat;sport
+sport;equestrian;sport
+sport;fencing;sport
+sport;fild_hockey;sport
+sport;fitness;sport
+sport;five-a-side;sport
+sport;floorball;sport
+sport;four_square;sport
+sport;free_flying;sport
+sport;futsal;sport
+sport;gaelic_games;sport
+sport;gaga;sport
+sport;golf;sport
+sport;gymnastics;sport
+sport;handball;sport
+sport;hapkido;sport
+sport;horseshoes;sport
+sport;horse_racing;sport
+sport;ice_hockey;sport
+sport;ice_skating;sport
+sport;ice_stock;sport
+sport;judo;sport
+sport;karting;sport
+sport;kickboxing;sport
+sport;kitesurfing;sport
+sport;lacrosse;sport
+sport;laser_tag;sport
+sport;material_arts;sport
+sport;miniature_golf;sport
+sport;model_aerodrome;sport
+sport;motocross;sport
+sport;motor;sport
+sport;multi;sport
+sport;netball;sport
+sport;obstacle_course;sport
+sport;orienteering;sport
+sport;paddle_tennis;sport
+sport;padel;sport
+sport;paintball;sport
+sport;parachuting;sport
+sport;parkour;sport
+sport;pelota;sport
+sport;pickleball;sport
+sport;pilates;sport
+sport;pole_dance;sport
+sport;racquet;sport
+sport;rc_car;sport
+sport;roller_skating;sport
+sport;rowing;sport
+sport;rugby_union;sport
+sport;running;sport
+sport;sailing;sport
+sport;scuba_diving;sport
+sport;shooting;sport
+sport;shot-put;sport
+sport;skateboard;sport
+sport;ski_jumping;sport
+sport;skiing;sport
+sport;snooker;sport
+sport;soccer;sport
+sport;speedway;sport
+sport;squash;sport
+sport;sumo;sport
+sport;surfing;sport
+sport;swimming;sport
+sport;table_tennis;sport
+sport;table_soccer;sport
+sport;taekwondo;sport
+sport;tennis;sport
+sport;toboggan;sport
+sport;trugo;sport
+sport;ultimate;sport
+sport;volleyball;sport
+sport;wakeboarding;sport
+sport;water_polo;sport
+sport;water_ski;sport
+sport;weightfiting;sport
+sport;windsurfing;sport
+sport;wrestling;sport
+sport;yoga;sport
+sport;zurkhaneh_sport;sport
+tourism;aquarium;attraction
+tourism;artwork;attraction
+tourism;attraction;attraction
+tourism;camp_pitch;attraction
+tourism;camp_site;attraction
+tourism;caravan_site;attraction
+tourism;chalet;accomodation
+tourism;gallery;attraction
+tourism;guest_house;accomodation
+tourism;hostel;accomodation
+tourism;hotel;accomodation
+tourism;information;attraction
+tourism;motel;accomodation
+tourism;museum;attraction
+tourism;theme_park;attraction
+tourism;viewpoint;attraction
+tourism;wilderness_hut;attraction
+tourism;zoo;attraction
+water;river;water
+water;oxbow;water
+water;canal;water
+water;ditch;water
+water;lock;water
+water;fish_pass;water
+water;lake;water
+water;reservoir;water
+water;pond;water
+water;basin;water
+water;lagoon;water
+water;sream_pool;water
+water;reflecting_pool;water
+water;moat;water
+water;wastewater;water
+waterway;riiver;water
+waterway;riverbank;water
+waterway;stream;water
+waterway;tidal_channel;water
+waterway;canal;water
+waterway;drain;water
+waterway;ditch;water
+waterway;fairway;water
+waterway;waterfall;water
+waterway;fuel;water

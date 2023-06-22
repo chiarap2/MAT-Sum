@@ -1,0 +1,14 @@
+{
+    "input_path": "../data/foursquare_nyc.csv",
+    "output_path": "../output/",
+    "experimeriment_path": "../config/",
+    "experiment_num": "all",
+    "input_type": "check-in",
+    "input_columns": [["tid", "label", "lat", "lon", "day", "hour", "poi", "category", "price",
+    "rating", "weather"]],
+    "input_lat_column": "lat",
+    "input_lon_column": "lon",
+    "input_time_column": "",
+    "input_tid_column": "tid",
+    "place": ""
+}

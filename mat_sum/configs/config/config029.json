@@ -1,0 +1,1 @@
+{"tessellation": {"type": "squares", "resolution": 17}, "semantic_aspects": {"POIs": "data/labeled_POI_NYC.parquet", "landuse": "", "public_transport": ""}, "threshold": 0.6}

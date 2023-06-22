@@ -1,8 +1,6 @@
 # %%
 import pandas as pd
 import geopandas as gpd
-import sys
-import argparse
 import os, glob
 import json
 from map_segmentation import segmentation
